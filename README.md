@@ -32,7 +32,7 @@ I used the API: https://openweathermap.org/
 :computer: TECHNOLOGIES : html, css and JS.
 
 —
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/BILLSPLITTER)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/simple-converter-F-C)
 
 
 
