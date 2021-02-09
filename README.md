@@ -1,16 +1,41 @@
-# weather-app
- This is a weather app.
- 
- 
-Enter the name of the city in input and display information about the weather in a given city. A styled, nice application written with HTML, CSS, JS - API.
- 
-In this project, I practiced getting data from the API
+<h1> Weather App </h1>
 
+ 
+*<h2>Simple application  "Weather App"* :blue_book:</h2>
+>from the series: learning the basics of Java script  :muscle:
+
+----
+
+
+enter a city and just check the weather in that city!
+
+
+
+-------
+
+<h3>What did I use in the project? What have I learned?</h3>
+
+* I learned the basics of JS here
+* I practiced CSS
+* conditional statement ( else, if )
+* DOM Elements 
+* I practiced getting data from the API
 
 I used the API: https://openweathermap.org/
 
 
-I tried to write a good asynchronous function - the so-called promise.
+
+
+-----
+
+
+:computer: TECHNOLOGIES : html, css and JS.
+
+—
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/BILLSPLITTER)
+
+
+
 
 
 
