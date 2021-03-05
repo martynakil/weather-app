@@ -37,7 +37,7 @@ I used the API: https://openweathermap.org/
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/weather-app/html.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/weather-app/html.html)
 
 -----
 
@@ -45,7 +45,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 :computer: TECHNOLOGIES : html, css and JS.
 
 —
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/simple-converter-F-C)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/simple-converter-F-C)
 
 
 
